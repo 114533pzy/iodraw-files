@@ -90,10 +90,8 @@
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-19" value="编写项目小作文" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="939.9999999999998" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-21" target="0UXsi_mUgFuZ3f4lFOZc-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-21" value="同步简历到boss直聘" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="800" width="120" height="60" as="geometry" />
@@ -124,11 +122,6 @@
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-34" value="结合录音" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="598" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="0UXsi_mUgFuZ3f4lFOZc-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="920" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-35" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="930" width="120" height="80" as="geometry" />

@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-3" value="个人简历" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="403" y="225" width="60" height="30" as="geometry" />
+          <mxGeometry x="403" y="225" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="0UXsi_mUgFuZ3f4lFOZc-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,7 +78,7 @@
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-17" target="0UXsi_mUgFuZ3f4lFOZc-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-17" value="模拟面试" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-17" value="模拟面试" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-19" target="0UXsi_mUgFuZ3f4lFOZc-21">

@@ -31,9 +31,6 @@
             <mxPoint x="380" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-3" value="个人简历" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="403" y="225" width="85" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="0UXsi_mUgFuZ3f4lFOZc-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="240" as="sourcePoint" />
@@ -143,6 +140,9 @@
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-44" value="项目小作文" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-45" value="录音文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="368" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

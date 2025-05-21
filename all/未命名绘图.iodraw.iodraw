@@ -42,7 +42,7 @@
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-9" target="0UXsi_mUgFuZ3f4lFOZc-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-16" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0UXsi_mUgFuZ3f4lFOZc-15">
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-16" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#e62828;" vertex="1" connectable="0" parent="0UXsi_mUgFuZ3f4lFOZc-15">
           <mxGeometry x="-0.1048" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

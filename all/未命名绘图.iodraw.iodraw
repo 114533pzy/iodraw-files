@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="803" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="401" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -90,8 +90,10 @@
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-19" value="编写项目小作文" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-21" target="0UXsi_mUgFuZ3f4lFOZc-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="939.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-21" value="同步简历到boss直聘" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="800" width="120" height="60" as="geometry" />
@@ -110,9 +112,6 @@
           <mxGeometry x="0.0345" y="2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-23" value="约外地面试，磨面试" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-29" value="项目小作文" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />

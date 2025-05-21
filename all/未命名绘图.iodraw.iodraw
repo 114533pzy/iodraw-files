@@ -75,7 +75,7 @@
             <mxPoint x="380" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-47" value="输出结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0UXsi_mUgFuZ3f4lFOZc-32">
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-47" value="输出结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#e82c2c;" vertex="1" connectable="0" parent="0UXsi_mUgFuZ3f4lFOZc-32">
           <mxGeometry x="-0.0044" y="2" relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>

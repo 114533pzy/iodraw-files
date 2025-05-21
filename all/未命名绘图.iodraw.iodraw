@@ -123,8 +123,8 @@
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-31" value="录音文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="425" y="598" width="50" height="30" as="geometry" />
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-34" value="结合录音" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="598" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

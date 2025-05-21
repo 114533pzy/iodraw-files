@@ -90,14 +90,13 @@
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-21" value="同步简历到boss直聘" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-23" target="0UXsi_mUgFuZ3f4lFOZc-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-23" value="约外地面试，磨面试" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="940" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-25" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="940" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

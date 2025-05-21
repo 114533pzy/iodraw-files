@@ -72,8 +72,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-17" target="0UXsi_mUgFuZ3f4lFOZc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-17" value="模拟面试" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

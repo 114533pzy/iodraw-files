@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-34" value="结合录音" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="415" y="598" width="70" height="30" as="geometry" />
+          <mxGeometry x="440" y="610" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-35" target="0UXsi_mUgFuZ3f4lFOZc-39">
           <mxGeometry relative="1" as="geometry" />
@@ -129,13 +129,13 @@
           <mxGeometry x="180" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-43" value="录音文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="380" y="530" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-44" value="项目小作文" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-45" value="个人简历" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="380" y="220" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

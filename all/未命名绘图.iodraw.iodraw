@@ -49,6 +49,9 @@
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-8" value="结合简历修改意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0UXsi_mUgFuZ3f4lFOZc-9" target="0UXsi_mUgFuZ3f4lFOZc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-9" value="模拟面试（检查简历）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="192.5" y="350" width="95" height="80" as="geometry" />
         </mxCell>
@@ -58,7 +61,6 @@
             <mxPoint x="240" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="310" />
-              <mxPoint x="250" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>

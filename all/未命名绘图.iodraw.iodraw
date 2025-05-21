@@ -128,13 +128,13 @@
         <mxCell id="0UXsi_mUgFuZ3f4lFOZc-39" value="上岸/正式面试" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-43" value="录音文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-43" value="录音文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-44" value="项目小作文" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-44" value="项目小作文" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-45" value="个人简历" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0UXsi_mUgFuZ3f4lFOZc-45" value="个人简历" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
